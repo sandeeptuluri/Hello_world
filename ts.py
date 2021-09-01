@@ -3,6 +3,7 @@ import string
 from string import punctuation
 from newspaper import Article
 import tkinter as tk
+from tk import Tk
 import transformers
 from transformers import pipeline
 
