@@ -28,7 +28,7 @@ def summarize():
     summary.config(state='disabled')
 
 
-root = tk.Tk()
+root = Tk()
 root.title('Text Summarizer')
 root.geometry('1400x800')
 
